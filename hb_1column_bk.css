@@ -17,7 +17,7 @@ h1,h2,h3,h4,h5,h6 { font-size:100%; }
 
 body{
   font-family: 'メイリオ',Meiryo,'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','ＭＳ Ｐゴシック',sans-serif;
-  font-size: 11px;
+  font-size: 12px;
   color: #333;
   line-height: 1.6;
   letter-spacing: 2px;
@@ -73,7 +73,7 @@ a:active {color: #333; text-decoration: none; border: none;}
 #blog-description {
   display: none;
   margin-top: 15px;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: normal;
 }
 
@@ -96,7 +96,7 @@ h1 a, .date a {
 #wrapper {
   width: 590px;
   padding: 50px 30px 10px 30px;
-  font-size: 11px;
+  font-size: 12px;
 }
 
 .entry-inner {
@@ -112,7 +112,7 @@ h1 a, .date a {
   position: absolute;
   top: 6px;
   right: 157px;
-  font-size: 11px;
+  font-size: 12px;
 }
 
 .date {
@@ -146,14 +146,14 @@ h1 a, .date a {
   background-repeat: no-repeat;
   background-position: left center;
   padding-left: 17px;
-  font-size: 11px;
+  font-size: 12px;
   margin-bottom: 15px;
 }
 
 /* 記事本文 */
 
 .entry-content {
-  font-size: 11px;
+  font-size: 12px;
   margin-top: 10px;
 }
 
@@ -235,7 +235,7 @@ pre.code {
 /* コメント */
 
 .comment-box {
-  font-size: 11px;
+  font-size: 12px;
 }
 
 /* ページャー */
@@ -245,12 +245,12 @@ pre.code {
 
 .pager-prev {
   display: block;
-  font-size: 11px;
+  font-size: 12px;
 }
 
 .pager-next {
   display: block;
-  font-size: 11px;
+  font-size: 12px;
 }
 
 /* サイドバー */
@@ -258,7 +258,7 @@ pre.code {
 #box2 {
   width: 100%;
   padding: 0;
-  font-size: 11px;
+  font-size: 12px;
 }
 
 #box2:after {
@@ -325,7 +325,7 @@ pre.code {
 #footer {
   margin: 40px auto 20px;
   text-align: center;
-  font-size: 11px;
+  font-size: 12px;
 }
 
 /* アーカイブ */
@@ -364,7 +364,7 @@ pre.code {
 .hatena-big-star-star-container,
 body.big-star .hatena-big-star-star-container {
   height: 10px;
-  width: 11px;
+  width: 12px;
   border-radius: 0px;
   margin: 1px;
   display: inline;
