@@ -242,6 +242,8 @@ pre.code {
 /* ページャー */
 
 .pager {
+  border-top: dotted 1px #ffd5ea;
+  border-bottom: dotted 1px #ffd5ea;
 }
 
 .pager-prev {
@@ -252,7 +254,6 @@ pre.code {
 .pager-next {
   display: block;
   font-size: 12px;
-  border-bottom: dotted 1px #ffd5ea;
 }
 
 /* サイドバー */
