@@ -206,7 +206,8 @@ dd {
 
 blockquote {
   border-left: solid 5px #ffd5ea;
-  font-size: 10px;
+  font-size: 12px;
+  font-style: italic;
   margin: 20px 30px;
   padding: 5px 20px;
 }
@@ -241,6 +242,7 @@ pre.code {
 /* ページャー */
 
 .pager {
+  text-align: center;
 }
 
 .pager-prev {
