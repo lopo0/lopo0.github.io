@@ -242,7 +242,6 @@ pre.code {
 /* ページャー */
 
 .pager {
-  text-align: center;
 }
 
 .pager-prev {
@@ -253,6 +252,7 @@ pre.code {
 .pager-next {
   display: block;
   font-size: 12px;
+  border-bottom: dotted 1px #ffd5ea;
 }
 
 /* サイドバー */
