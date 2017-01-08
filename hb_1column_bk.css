@@ -242,8 +242,6 @@ pre.code {
 /* ページャー */
 
 .pager {
-  border-top: dotted 1px #ffd5ea;
-  border-bottom: dotted 1px #ffd5ea;
 }
 
 .pager-prev {
