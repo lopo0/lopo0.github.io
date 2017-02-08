@@ -207,7 +207,7 @@ dd {
 blockquote {
   border-left: solid 5px #ffd5ea;
   font-size: 12px;
-  font-style: italic;
+  font-style: oblique;
   margin: 20px 30px;
   padding: 5px 20px;
 }
